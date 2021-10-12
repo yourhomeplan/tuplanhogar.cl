@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AC Sample App</string>
+    <string name="app_name">Catalogue</string>
 
     <string name="analytics_description">"Get information about the number of daily, weekly, and monthly users, session duration, the top devices and more. Use events to collect rich behavioral analytics data."</string>
     <string name="push_description">"Engage your users by sending them targeted messages to specific sets of users at exactly the right time.Create segments of users based on device and custom properties."</string>

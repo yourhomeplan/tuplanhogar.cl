@@ -1,4 +1,4 @@
-package ms.appcenter.sampleapp.android
+package cl.tuplanhogar.catalogo
 
 import android.app.Dialog
 import android.content.DialogInterface

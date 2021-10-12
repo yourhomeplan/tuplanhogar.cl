@@ -1,4 +1,4 @@
-package ms.appcenter.sampleapp.android
+package cl.tuplanhogar.catalogo
 
 import android.os.Bundle
 import android.view.LayoutInflater

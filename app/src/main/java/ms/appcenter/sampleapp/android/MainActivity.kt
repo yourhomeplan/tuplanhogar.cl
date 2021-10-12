@@ -1,4 +1,4 @@
-package ms.appcenter.sampleapp.android
+package cl.tuplanhogar.catalogo
 
 import android.os.Bundle
 import android.util.Log
@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     inner class SectionsPagerAdapter(fm: FragmentManager?) : FragmentPagerAdapter(fm!!,
-            BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT) {
+        BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT) {
         override fun getItem(@IntRange(from = 0, to = 6) position: Int): Fragment {
             return views[position]
         }
