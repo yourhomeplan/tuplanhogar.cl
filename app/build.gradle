@@ -5,10 +5,10 @@ android {
     compileSdkVersion 31
     buildToolsVersion '31.0.0'
     defaultConfig {
-        applicationId "ms.appcenter.sampleapp.android"
+        applicationId "cl.tuplanhogar.catalogo"
         minSdkVersion 29
         targetSdkVersion 31
-        versionCode 1
+        versionCode 3
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         // Obtain the value of APPCENTER_APP_SECRET environment variable from Build time.
