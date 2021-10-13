@@ -35,6 +35,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("ms.appcenter.sampleapp.android", appContext.getPackageName());
+        assertEquals("cl.tuplanhogar.catalogo", appContext.getPackageName());
     }
 }
